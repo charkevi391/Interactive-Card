@@ -33,6 +33,7 @@ namespace Interactive_Card
             Graphics g = this.CreateGraphics();
 
             g.Clear(Color.Aquamarine);
+
         }
     }
 }
