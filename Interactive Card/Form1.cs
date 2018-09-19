@@ -24,15 +24,23 @@ namespace Interactive_Card
             Graphics g = this.CreateGraphics();
             Font drawFont = new Font("TimesNewRoman", 16, FontStyle.Bold);
             SolidBrush drawBrush = new SolidBrush(Color.Black);
+            SolidBrush darkBlueBrush = new SolidBrush(Color.BlueViolet);
 
         }
 
-
-        private void button1_Click(object sender, EventArgs e)
+        private void startButton_Click(object sender, EventArgs e)
         {
+            this.BackgroundImage = null;
+            this.startButton.Visible = false;
+            Refresh();
+
             Graphics g = this.CreateGraphics();
 
             g.Clear(Color.Aquamarine);
+
+            Thread.Sleep(500);
+
+            g.FillRectangle(darkBlueBrush, 30, 30, 100, 200);
 
         }
     }
