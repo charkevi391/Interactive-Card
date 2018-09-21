@@ -63,6 +63,107 @@ namespace Interactive_Card
             g.FillEllipse(blackBrush, 80, 230, 12, 12);
             g.DrawEllipse(mouthPen, 290, 260, 10, 20);
             g.DrawEllipse(mouthPen, 90, 260, 20, 10);
+            Thread.Sleep(500);
+
+            g.DrawLine(drawPen, 0, 305, 550, 305);
+            g.FillRectangle(blueBrush, 50, 200, 100, 100);
+            g.FillEllipse(yellowBrush, 250, 200, 100, 100);
+            g.FillEllipse(blackBrush, 300, 230, 12, 12);
+            g.FillEllipse(blackBrush, 270, 230, 12, 12);
+            g.FillEllipse(blackBrush, 110, 230, 12, 12);
+            g.FillEllipse(blackBrush, 80, 230, 12, 12);
+            g.DrawEllipse(mouthPen, 290, 260, 20, 10);
+            g.DrawEllipse(mouthPen, 90, 260, 10, 20);
+            Thread.Sleep(500);
+
+            g.DrawLine(drawPen, 0, 305, 550, 305);
+            g.FillRectangle(blueBrush, 50, 200, 100, 100);
+            g.FillEllipse(yellowBrush, 250, 200, 100, 100);
+            g.FillEllipse(blackBrush, 300, 230, 12, 12);
+            g.FillEllipse(blackBrush, 270, 230, 12, 12);
+            g.FillEllipse(blackBrush, 110, 230, 12, 12);
+            g.FillEllipse(blackBrush, 80, 230, 12, 12);
+            g.DrawEllipse(mouthPen, 290, 260, 10, 20);
+            g.DrawEllipse(mouthPen, 90, 260, 20, 10);
+            Thread.Sleep(500);
+
+            g.DrawLine(drawPen, 0, 305, 550, 305);
+            g.FillRectangle(blueBrush, 50, 200, 100, 100);
+            g.FillEllipse(yellowBrush, 250, 200, 100, 100);
+            g.FillEllipse(blackBrush, 300, 230, 12, 12);
+            g.FillEllipse(blackBrush, 270, 230, 12, 12);
+            g.FillEllipse(blackBrush, 110, 230, 12, 12);
+            g.FillEllipse(blackBrush, 80, 230, 12, 12);
+            g.DrawEllipse(mouthPen, 290, 260, 20, 10);
+            g.DrawEllipse(mouthPen, 90, 260, 10, 20);
+            Thread.Sleep(500);
+
+            g.DrawLine(drawPen, 0, 305, 550, 305);
+            g.FillRectangle(blueBrush, 50, 200, 100, 100);
+            g.FillEllipse(yellowBrush, 250, 200, 100, 100);
+            g.FillEllipse(blackBrush, 300, 230, 12, 12);
+            g.FillEllipse(blackBrush, 270, 230, 12, 12);
+            g.FillEllipse(blackBrush, 110, 230, 12, 12);
+            g.FillEllipse(blackBrush, 80, 230, 12, 12);
+            g.DrawEllipse(mouthPen, 290, 260, 10, 20);
+            g.DrawEllipse(mouthPen, 90, 260, 20, 10);
+            Thread.Sleep(500);
+
+            g.DrawLine(drawPen, 0, 305, 550, 305);
+            g.FillRectangle(blueBrush, 50, 200, 100, 100);
+            g.FillEllipse(yellowBrush, 250, 200, 100, 100);
+            g.FillEllipse(blackBrush, 300, 230, 12, 12);
+            g.FillEllipse(blackBrush, 270, 230, 12, 12);
+            g.FillEllipse(blackBrush, 110, 230, 12, 12);
+            g.FillEllipse(blackBrush, 80, 230, 12, 12);
+            g.DrawEllipse(mouthPen, 290, 260, 20, 10);
+            g.DrawEllipse(mouthPen, 90, 260, 10,20);
+            Thread.Sleep(500);
+
+            g.DrawLine(drawPen, 0, 305, 550, 305);
+            g.FillRectangle(blueBrush, 50, 200, 100, 100);
+            g.FillEllipse(yellowBrush, 250, 200, 100, 100);
+            g.FillEllipse(blackBrush, 300, 230, 12, 12);
+            g.FillEllipse(blackBrush, 270, 230, 12, 12);
+            g.FillEllipse(blackBrush, 110, 230, 12, 12);
+            g.FillEllipse(blackBrush, 80, 230, 12, 12);
+            g.DrawEllipse(mouthPen, 290, 260, 10, 20);
+            g.DrawEllipse(mouthPen, 90, 260, 20, 10);
+            Thread.Sleep(500);
+
+            g.DrawLine(drawPen, 0, 305, 550, 305);
+            g.FillRectangle(blueBrush, 50, 200, 100, 100);
+            g.FillEllipse(yellowBrush, 250, 200, 100, 100);
+            g.FillEllipse(blackBrush, 300, 230, 12, 12);
+            g.FillEllipse(blackBrush, 270, 230, 12, 12);
+            g.FillEllipse(blackBrush, 110, 230, 12, 12);
+            g.FillEllipse(blackBrush, 80, 230, 12, 12);
+            g.DrawEllipse(mouthPen, 290, 260, 20, 10);
+            g.DrawEllipse(mouthPen, 90, 260, 10, 20);
+            Thread.Sleep(500);
+
+            g.DrawLine(drawPen, 0, 305, 550, 305);
+            g.FillRectangle(blueBrush, 50, 200, 100, 100);
+            g.FillEllipse(yellowBrush, 250, 200, 100, 100);
+            g.FillEllipse(blackBrush, 300, 230, 12, 12);
+            g.FillEllipse(blackBrush, 270, 230, 12, 12);
+            g.FillEllipse(blackBrush, 110, 230, 12, 12);
+            g.FillEllipse(blackBrush, 80, 230, 12, 12);
+            g.DrawEllipse(mouthPen, 290, 260, 10, 20);
+            g.DrawEllipse(mouthPen, 90, 260, 20, 10);
+            Thread.Sleep(500);
+
+            g.DrawLine(drawPen, 0, 305, 550, 305);
+            g.FillRectangle(blueBrush, 50, 200, 100, 100);
+            g.FillEllipse(yellowBrush, 250, 200, 100, 100);
+            g.FillEllipse(blackBrush, 300, 230, 12, 12);
+            g.FillEllipse(blackBrush, 270, 230, 12, 12);
+            g.FillEllipse(blackBrush, 110, 230, 12, 12);
+            g.FillEllipse(blackBrush, 80, 230, 12, 12);
+            g.DrawEllipse(mouthPen, 290, 260, 20, 10);
+            g.DrawEllipse(mouthPen, 90, 260, 20, 20);
+            g.DrawString("Square: Circle, You're Pointless!", drawFont, blackBrush, 20, 20);
+            Thread.Sleep(500);
 
         }
     }

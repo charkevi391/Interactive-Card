@@ -82,5 +82,8 @@
   <ItemGroup>
     <None Include="Resources\isometric.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Open Sound.bmp" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
