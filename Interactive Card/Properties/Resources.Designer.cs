@@ -61,6 +61,15 @@ namespace Interactive_Card.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream gate {
+            get {
+                return ResourceManager.GetStream("gate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap isometric {
@@ -71,12 +80,11 @@ namespace Interactive_Card.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
         /// </summary>
-        internal static System.Drawing.Bitmap Open_Sound {
+        internal static System.IO.UnmanagedMemoryStream roll {
             get {
-                object obj = ResourceManager.GetObject("Open Sound", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
+                return ResourceManager.GetStream("roll", resourceCulture);
             }
         }
     }

@@ -85,5 +85,11 @@
   <ItemGroup>
     <None Include="Resources\Open Sound.bmp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gate.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\roll.wav" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.startButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
@@ -51,8 +52,9 @@
             this.BackgroundImage = global::Interactive_Card.Properties.Resources.isometric;
             this.ClientSize = new System.Drawing.Size(471, 469);
             this.Controls.Add(this.startButton);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Shape Day";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
 
